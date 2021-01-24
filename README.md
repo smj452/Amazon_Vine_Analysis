@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. The purpose of this analysis is to study one of Amazon's order category dataset from the Amazon Vine Program and use PySpark to perform the ETL process to an AWS RDS instance, and then load the transformed data into pgAdmin. The data is then used to determine if there is any bias toward favourable reviews from Vine members when compared to non-Vine member reviews. Here I have picked up the Home Entertainment category dataset for my analysis.
+The Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. The purpose of this analysis is to study one of Amazon's order category dataset from the Amazon Vine Program and use PySpark to perform the ETL process to an AWS RDS instance, and then load the transformed data into pgAdmin. The data is then used to determine if there is any bias toward favourable reviews from Vine members when compared to Non-Vine member reviews. Here I have picked up the Home Entertainment category dataset for my analysis.
 
 ## Results
 
