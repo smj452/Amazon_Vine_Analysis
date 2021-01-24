@@ -17,7 +17,7 @@ The Amazon Vine Program is a service that allows manufacturers and publishers to
 
 ## Summary 
 
-There was no major bias for reviews in the Vine program. The percentage of non-Vine 5 stars reviews was 4% more than Vine 5 stars reviews.
+There was no major bias for reviews in the Vine program. The percentage of Non-Vine 5 stars reviews was 4% more than Vine 5 stars reviews.
 
 **Additional analysis that could be done with the dataset to support the statement**
 
