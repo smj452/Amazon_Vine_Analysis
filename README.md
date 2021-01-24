@@ -11,7 +11,6 @@ The Amazon Vine Program is a service that allows manufacturers and publishers to
 **Vine Summary Results**
 
 ![Vine_Summary.png](https://github.com/smj452/Amazon_Vine_Analysis/blob/main/Resources/Vine_Summary.png)
-
 - There were 261 Vine reviews and 24,040 non-Vine reviews.
 - 106 Vine reviews were 5 stars and 10,899 non-Vine reviews were 5 stars.
 - 41% of Vine reviews were 5 stars and 45% of non-Vine reviews were 5 stars.
